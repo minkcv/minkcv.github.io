@@ -37,6 +37,7 @@ html, body {
 }
 .image-wrapper > div{
     font-size: 14pt;
+    font-weight: bold;
 }
 .image-wrapper > a >img {
     height: 300px;
