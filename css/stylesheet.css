@@ -1,12 +1,16 @@
-h1{
+h1 {
     text-align: center;
+    color: #dddddd;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 ul {
     text-align: center;
 }
 body{
     font-family: Arial, sans-serif;
-    margin: 20px;
+    color: #dddddd;
 }
 li {
     list-style-type: none;
@@ -24,9 +28,11 @@ li {
 }
 #menu {
     height: 45px;
+    width: 100%;
     background-color: #555555;
 }
 html, body {
+    background-color: #2c2c2c;
     height: 100%;
 }
 .thumbnails {
